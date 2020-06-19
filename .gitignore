@@ -2,3 +2,5 @@
 venv
 images/
 test1/
+
+.mdl_wts.hdf5
